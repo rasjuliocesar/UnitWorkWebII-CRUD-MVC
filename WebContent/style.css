@@ -1,0 +1,25 @@
+.main{
+	border-radius: 10px;
+	border: 1px solid #D2691E;
+	display: flex;
+ 			flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 5px;
+}
+.divsMain {
+	width: 50%;
+    border: 2px solid #D2695E;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
+a:hover {
+	color: red;
+}
+#divForm {
+	padding: 10px;
+	margin: 50px;
+	border: 1px solid #D2691E;
+	border-radius: 10px;
+}
